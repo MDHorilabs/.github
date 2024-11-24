@@ -1,1 +1,1 @@
-# .github
+# Multidimesional Horizon Laboratory
